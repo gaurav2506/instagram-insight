@@ -1,6 +1,6 @@
 # instagram-insight
 
-This project is supposed to subject th ***Instagram Graph API***
+This project employs the  ***Instagram Graph API***
 
 ## Required Libraries
 1.os
